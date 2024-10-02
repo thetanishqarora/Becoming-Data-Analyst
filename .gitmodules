@@ -1,0 +1,3 @@
+[submodule "path/to/where/you/want/it"]
+	path = path/to/where/you/want/it
+	url = https://github.com/thetanishqarora/Python_Revision.git
